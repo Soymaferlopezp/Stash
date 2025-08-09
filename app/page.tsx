@@ -121,7 +121,7 @@ export default function StashLanding() {
                 </h3>
                 <p className="text-xl text-[#F8F9FA]/80 font-inter leading-relaxed">
                   Los bancos cobran comisiones, las apps custodiales controlan tu dinero y la automatización es
-                  limitada. Es hora de tener el control total.
+                  limitada.
                 </p>
               </div>
 
