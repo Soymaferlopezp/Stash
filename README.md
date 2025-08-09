@@ -54,8 +54,6 @@ Track: Track Abierto
 ***
 ### Diagrama de Flujo Stash
 
-¡Excelente idea\! Un diagrama de flujo es la mejor manera de visualizar el recorrido del usuario a través del prototipo. Te lo proporciono en un cuadro de código, utilizando un formato de texto que es claro y fácil de entender.
-
 Este diagrama representa el flujo del MVP, desde la entrada hasta la desconexión, y las interacciones dentro del dashboard que hemos construido.
 
 ```
