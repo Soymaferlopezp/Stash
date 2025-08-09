@@ -554,12 +554,12 @@ function DashboardContent() {
       </div>
 
       {/* Main Summary Card */}
-      <Card className="bg-gradient-to-br from-[#00A86B]/10 to-[#1B6AFF]/10 border-[#00A86B]/30 p-8">
+      <Card className="bg-gradient-to-br from-[#2A2A2A] via-[#1E1E1E] to-[#2A2A2A] border-[#00A86B]/30 p-8 shadow-lg">
         <div className="space-y-6">
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-sm text-[#F8F9FA]/70 font-inter mb-2">Total Ahorrado</p>
-              <p className="text-4xl font-bold font-sora text-[#00A86B]">$820.00 USD</p>
+              <p className="text-sm text-[#F8F9FA]/90 font-inter mb-2 font-medium">Total Ahorrado</p>
+              <p className="text-4xl font-bold font-sora text-white">$820.00 USD</p>
             </div>
             <div className="w-16 h-16 rounded-full bg-[#00A86B]/20 flex items-center justify-center">
               <TrendingUp className="w-8 h-8 text-[#00A86B]" />
@@ -569,8 +569,8 @@ function DashboardContent() {
           {/* Progress Bar */}
           <div className="space-y-2">
             <div className="flex justify-between text-sm font-inter">
-              <span className="text-[#F8F9FA]/70">Progreso hacia tu meta</span>
-              <span className="text-[#00A86B]">82%</span>
+              <span className="text-[#F8F9FA]/90 font-medium">Progreso hacia tu meta</span>
+              <span className="text-[#00A86B] font-semibold">82%</span>
             </div>
             <div className="w-full bg-[#3A3A3A] rounded-full h-3">
               <div
@@ -578,7 +578,7 @@ function DashboardContent() {
                 style={{ width: "82%" }}
               ></div>
             </div>
-            <p className="text-xs text-[#F8F9FA]/50 font-inter">Meta: $1,000 USD</p>
+            <p className="text-xs text-[#F8F9FA]/80 font-inter font-medium">Meta: $1,000 USD</p>
           </div>
         </div>
       </Card>
