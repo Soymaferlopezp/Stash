@@ -1,12 +1,15 @@
-# Stash: Tu Herramienta de Ahorro Descentralizada en Stellar
+<p align="center">
+  <img src="https://github.com/Soymaferlopezp/Stash/blob/main/public/DCA.png" alt="Stash Logo" height="250">
+</p>
 
-![Stash Logo Placeholder](images/logo_stash.png)
+<h1 align="center">Stash: Tu Herramienta de Ahorro Descentralizada en Stellar</h1>
 
 Stash es una aplicación web descentralizada construida sobre la red de Stellar. Su misión es democratizar el ahorro, permitiendo a los usuarios crear estrategias de Dollar-Cost Averaging (DCA) de manera segura, sin custodia y con la ayuda de la inteligencia artificial.
 
-***
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/stashs-projects-39f6689b/v0-stash)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/SJLzBg9LIE8)
+
+***
 
 ### 👥 Team
 
